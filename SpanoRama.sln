@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserveMe", "ObserveMe\ObserveMe.csproj", "{3D1D69A4-A9C1-4442-8D94-E164F7CB2A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefaults", "ServiceDefaults\ServiceDefaults.csproj", "{C74FAFB3-A363-4099-AF61-3872D829A729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D1D69A4-A9C1-4442-8D94-E164F7CB2A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1D69A4-A9C1-4442-8D94-E164F7CB2A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1D69A4-A9C1-4442-8D94-E164F7CB2A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1D69A4-A9C1-4442-8D94-E164F7CB2A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74FAFB3-A363-4099-AF61-3872D829A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74FAFB3-A363-4099-AF61-3872D829A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74FAFB3-A363-4099-AF61-3872D829A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74FAFB3-A363-4099-AF61-3872D829A729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
